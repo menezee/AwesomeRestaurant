@@ -1,0 +1,17 @@
+var app = require('../app');
+var debug = require('debug')('AwesomeRestaurant:server');
+var http = require('http');
+
+var port = 3000;
+app.set('port', port);
+
+var server = http.createServer(app);
+server.listen(port);
+
+server.on('error', function(error) {
+    throw error;
+});
+
+server.on('listening', function() {
+  debug('Listening on ' + server.address().port);
+});

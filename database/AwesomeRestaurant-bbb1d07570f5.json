@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "awesomerestaurant-3b117",
+  "private_key_id": "bbb1d07570f5fed3e8af13e017b0608e78143b8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCzHlbr0/Fjv2ba\nF0nExo38XZ+3Tq88i/SCa0sZTZtWWYzp0S/vqVd+pwTmSPMsKKBOtQTE3CqOOvcG\np/aaoNieVbTWuspphTUaj+A9e6vd6gBkEAPU5Pv9QvO82cuX0rOYCKDatMGOfyq0\n6CeMqSCmne4mclpiyCc6q6VXVsHt01YEFpkG2Vo9WR1r2rqLiO8jvRvS06+gcjL/\nVfbrOIGdaEWl2uGsy3KRH2XwIt/a8CRhN2gkVQo3iYfL/26rhdYKjtkuc8fSH0RV\nXS8wD1O43qxvCCcfLaxGYRTR/4ZC+Opgxph3VX4rAAr8ZvSeHSCLc+zylp3skmQX\nwqD3nKuPAgMBAAECggEBAIJAOMMK/0kiwT8smicun8d5qZAZ9tIXj/la3mSLC7+S\nJSdOSAaGZSqjd6uiNrrQ3Cn/9nTVCVkeRc4gS/KLrpoNBxDzCggLpt8m6tCq4wLf\ni+M3xiGFVj0H98hHtIY14QVYmOgRc4MUtFCTVVczEZw30htBIrscg3JlqTlGzIUM\n5nvCjvcN1g3kQ27yidfTvcPmyoz/TKnISRVhrDff0BIiRuDPTXp63ZKchm7ttwj3\nGIdCyMkUMbyBA7F1ORxRe88aOT6DNMDi7ahHkyyjCGefExvthLUy8R7drgO6G7Rt\nC+CneBPKqNa179y+VtC3UKCcKwVTFG/mbjGlQDQzeEkCgYEA4OT9uitEFHYm/7c8\n56RwuVra00inQHViD9JM+KBy9Ps8js8XA5JHKutI12wMB8Zi1O0U8vsE9QBTwKXf\n+oZJxz/gjO3nVpJwBhgwmCvYrnBVeEskgiviCbEuIns3HHN0fDnqG7tcm4Z7pZS7\nja9/GgVobgJVN9LMQGLKU09e0YUCgYEAy+SGEXz/uozMUJn3sZ4Zu4P7t0zjcJX+\nJJMI3datjH59bGGNoLd8u3nB2/aFrG5xDs73+7UiJnoDnEIyJ6u2XwKDqoF4AcY8\nsDRIYXhT0bhVv9psF+P7iSH0ieT82udmu9mWVYOSETalLpf58GDCnwQwqM2TOj2e\nw6ehK2TZiwMCgYEA0URj0TNnYz7aZULluorqlZ+0VbyaXUGdISnIk+YBcnLB1AVh\n3eHktUxA+KvCug1hc860mrD32N8YEACJ3X3N80k+MwVBKe6TrSgfN8o9E3zWG1yY\nuUQKToh/bHiJPME2WE4vyORcdR/7uIUgzOPL+rOjjBJBp/NQOm1y5XjKu10CgYEA\nlAE2BPnc1LkiExxA/jEK8uBy13M74l0vF7OYCxir8EFdoFAMM+8d3yUaQSbpj+q3\nrQ02XAP3X0DQ4Bv5NmziPIOhuiKzT25sXWgGZqKnDaSmslbGgm0fCUOZtIOBvRGe\ntJvVEgwo+s/VBkaRyxkiDbZH8DESP4O9fL9xMgPKGqsCgYBaT5Huz92mRBLNrLoO\n2VADkVfuUnUEF+cQ7aE0ZMYh9+8NFkmwWitAId2L1+iYPUA26RGT0boggvJ08Shs\nt7hKGesp+oUO38zbA7pOOFfW7CEdIPw3ASACOfW3DxzA29y4lFGGc+IdxCV4tMIi\nOKawCCabRmwMv8Prd6mCjiW9BQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "backend@awesomerestaurant-3b117.iam.gserviceaccount.com",
+  "client_id": "105664692946461157699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/backend%40awesomerestaurant-3b117.iam.gserviceaccount.com"
+}
